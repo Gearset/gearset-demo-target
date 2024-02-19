@@ -1,7 +1,7 @@
 {
     "packageDirectories": [
         { 
-            "path": "gearset", 
+            "path": "gearsett", 
             "default": true 
         }
     ],
